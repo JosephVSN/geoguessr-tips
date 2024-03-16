@@ -15,6 +15,7 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
     2. [Germany](#germany)
     3. [Finland](#finland)
     4. [Sweden](#sweden)
+    5. [Estonia](#Estonia)
 5. [South America](#south-america)
     1. [Colombia](#colombia)
     2. [Ecuador](#ecuador)
@@ -84,17 +85,30 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 
 # Oceania
 ## Australia
+* **Left-hand** drive
 ### Road Signs
+* Chevrons are white-on-black and black-on-yellow
+* Green signs with white arrows on either side show nearby cities/towns
+* Speed signs are white rectangles with a red circle
 ### Road Markings
+* Road lines are almost exclusively white
+* Can have rumble stripes which appear as small horizontal lines across the outer lines
 ### Poles & Bollards
 * Mostly wooden
+* Bollards are white with a red reflector on the front and a grey reflector on the back
 ### Google Car
 ### License Plates
 ### Trash Bins
 * Colored tops in Green/Orange/Yellow
 * City logos on the front
 ### Agriculture & Land Features
+* Look for Gum trees/eucalyptus - light-coloured bark with puffy leaves
 ### Region-specific
+* Northern regions typically do not have rumble strips ever
+* Yellow signposts are specific to **West Australia**
+* Roads that start with "C" are only **Victoria** or **Tasmania**, coverage is usually Gen 1/2
+* **Tasmania** has white directional signs
+
 
 ## New Zealand
 ### Road Signs
@@ -168,6 +182,31 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 ### Agriculture & Land Features
 ### Region-specific
 
+## Estonia
+* Language is unique but similar to Finnish
+    * Tänav == Street
+    * Tee == Road
+* Many houses have oval-shaped, blue house numbers similar to **Russia**
+### Road Signs
+* Chevrons are red with white arrows
+* Mile markers are perpendicular to the road
+* Warning/speed sign borders are thin & red without a white outline
+* Pedestrian signs have 3 stripes with a detailed pedestrian
+* Bus stop sign has 4 windows on the bus
+* Directional signs are blue with white text & a white outline
+### Road Markings
+* Outside lines are sometimes short dashes
+### Poles & Bollards
+* Bollards are round with a rectangular reflector on the front and two circular reflectors on the back. Reflectors are white/orange
+* Poles are inconsistent, round & wooden/stone are most common and sometimes have diagonal supports
+* Many poles are wrapped in blue & white similar to **Finland** and **Sweden**
+### Google Car
+### License Plates
+### Trash Bins
+### Agriculture & Land Features
+### Region-specific
+
+
 # South America
 ## Colombia
 ### Road Signs
@@ -211,10 +250,15 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 
 ## Chile
 ### Road Signs
+* Commonly see slots at the top of signposts undernetah where the sign and post meet
 ### Road Markings
 * White divider line except in the south
 ### Poles & Bollards
-* Indents on poles
+* Indents on poles - similar to **Brazil** but fewer supports and typically has small pinholes at the top
+* Wooden poles are common
+* Bollards are infrequent
+* Bollards resemble **Spain** bollards - white reflector on front and yellow-orange reflector on back
+* Can sometimes see a temporary bollard that looks like a traffic cone
 ### Google Car
 * Black exposed in the back
 ### License Plates
@@ -222,6 +266,8 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 ### Trash Bins
 ### Agriculture & Land Features
 ### Region-specific
+* Road names are all regional - starting with "A##" at the top of the country and decreasing to "Y##" as you go south
+* **Lanco** has orange street signs (middle-ish of the country)
 
 ## Peru
 ### Road Signs
