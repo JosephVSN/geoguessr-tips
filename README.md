@@ -42,9 +42,8 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 ## Canada
 ### Road Signs
 * Speed limit sign says "Maximum"
-* **Ontario** has a black box at the bottom of the speed limit signs to say "km/h"
 * Yellow diamond sign with black-checker pattern marks "Road ending" with black double-sided arrow in the middle
-    * **Quebec** same but no checker pattern, two poles holding sign
+
 ### Road Markings
 ### Poles & Bollards
 * **Ontario** sometimes uses wooden guardrails
@@ -53,6 +52,8 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 ### Trash Bins
 ### Agriculture & Land Features
 ### Region-specific
+* **Ontario** has a black box at the bottom of the speed limit signs to say "km/h"
+* **Quebec** "Road ending" sign has checker pattern, two poles holding sign
 
 
 # Africa
