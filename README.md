@@ -38,17 +38,6 @@ This is a personal collection of Geoguessr notes mostly taken from [plonkit](htt
 ## Videos
 * [10 World Maps You NEED to Know for Geoguessr - zi8zag](https://www.youtube.com/watch?v=JZKHJeWSmmE)
 
-
-### Road Signs
-### Road Markings
-### Poles & Bollards
-### Google Car
-### License Plates
-### Trash Bins
-### Agriculture & Land Features
-### Region-specific
-
-
 # North America
 ## Canada
 ### Road Signs
